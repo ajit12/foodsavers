@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: Project
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+One of the most fundamental acts of civilization is to ensure that everyone has enough food to eat.
+The foodsavers project team is working relentlessly to build solutions that can help solve this problem (to the extent possible).
+We are currently building AI algorithms that will help save food.
+Will you join us?
